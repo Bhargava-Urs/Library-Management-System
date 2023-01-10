@@ -1,0 +1,53 @@
+.bookList{
+    position: relative;
+    text-align: center;
+
+}
+.bookList h1{
+    text-align: center;
+}
+.book_section{
+    display: inline-block;
+    text-align: center;
+}
+.info{
+   align-items: center;
+    background-color: white;
+    color: black;
+    width: 1000px;
+    height: 350px;
+    padding: 5px 10px;
+    display: inline-flex;
+    text-align: center;
+    margin: 10px;
+    border-radius: 15px;
+    box-shadow: 0px 0px 15px black;
+}
+.bookinfo{
+    margin-left: 50px;
+}
+.bookinfo h1,h5,h3,h4{
+    text-align: start;
+    margin: 7px;
+}
+.btnbook{
+    margin-left: auto;
+}
+.btnbook button{
+    padding: 10px 25px;
+    font-size: large;
+    border: 1px solid red;
+    color: red;
+    border-radius: 10px;
+    margin: 5px
+    
+}
+.image img{
+    border: 5px solid black;
+    padding: 5px;
+}
+/* #desc{
+    display: ;
+} */
+
+

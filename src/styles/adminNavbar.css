@@ -1,0 +1,40 @@
+.navbar{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    background-color: black;
+    color: white;
+}
+.left1 a{
+    margin: 0px 20px;
+    text-decoration: none;
+    color: white;
+    border: 10px solid transparent;
+    padding: 5px 0px;
+    font-size: large;
+    
+}
+/* .left a:hover{
+    
+    background-color: transparent;
+    color: white;
+    border-radius: 10px;
+    border-bottom: 2px solid white;
+} */
+.left1 a:hover{
+    background-color: white;
+    color: black;
+    border-radius: 15px;
+}
+.button1 a{
+    text-decoration: none;
+    color: white;
+    padding: 10px;
+  border: 1px solid white;
+    border-radius: 10px;
+}
+.button1 a:hover{
+    background-color: white;
+    color: black;
+
+}

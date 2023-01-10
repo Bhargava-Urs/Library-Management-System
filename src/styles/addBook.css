@@ -1,0 +1,37 @@
+.addBooks{
+    border: 2px solid black;
+      text-align: center;
+      margin-top: 125px;
+      width: 600px;
+  margin-left: 30%;
+  box-shadow: 0px 0px 15px black;
+  margin-top: 50px;
+  }
+  
+  .bookform input{
+     outline: none;
+      margin: 5px;
+      width: 350px;
+      height: 25px;
+      font-size: medium;
+      border-top: none;
+      border-left: none;
+      border-right: none;
+      border-bottom: 1px solid black;
+  }
+  .bookform button{
+      padding: 10px;
+      background-color: black;
+      color: white;
+      border-radius: 5px;
+      font-size: medium;
+      margin-top: 15px;
+      margin-bottom: 3px;
+  }
+  .shortDescription textarea{
+    outline: none;
+    border: 2px solid black;
+  }
+  .longDescription textarea{
+    border: 2px solid black;
+  }

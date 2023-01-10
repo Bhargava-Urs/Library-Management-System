@@ -1,0 +1,55 @@
+.landingpage {
+  background-image: url("../../public/images/mainlogin.jpg");
+  height: 100vh;
+  background-position: top;
+  background-size: cover;
+  background-repeat: no-repeat;
+  width: 100%;
+}
+.selectLoginType {
+  text-align: center;
+  color: black;
+}
+.selectLoginType h1{
+  position: relative;
+  top: 55px;
+  margin-top: 0px;
+  color: white;
+  text-shadow: 2px 2px 2px rgb(0, 0, 0);
+}
+.link1 {
+  color: white;
+  text-decoration: none;
+  background-color: rgba(7, 48, 73, 0.947);
+  padding: 10px;
+  border-radius: 5px;
+}
+.link2 {
+  color: white;
+  text-decoration: none;
+  background-color: rgb(30, 163, 215);
+  padding: 10px;
+  border-radius: 5px;
+}
+.left img {
+  height: 150px;
+  width: 150px;
+  background-color: white;
+  margin-bottom: 15px;
+  margin-right: 5px;
+}
+
+.main {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  margin: 5px 10px;
+  margin-left: 30%;
+  background-color: white;
+  width: 600px;
+  height: 400px;
+  position: relative;
+  top: 100px;
+  box-shadow: 0px 0px 15px black;
+
+}
