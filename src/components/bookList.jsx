@@ -22,7 +22,7 @@ const BookList = () => {
   };
 let navigate = useNavigate('')
  let read = (id) =>{
-  if(location.pathname == 'admin/book-list'){
+  if(location.pathname == '/admin/book-list'){
     navigate(`/admin/book-list/${id}`)
   }else{
     navigate(`/user/book-list/${id}`)

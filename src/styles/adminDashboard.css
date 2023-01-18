@@ -1,0 +1,45 @@
+
+.welcome{
+background-image: url('../../public/images/landing.jpg');
+height: 600px;
+width: 100%;
+background-position: center;
+background-size: cover;
+}
+.welcome h1{
+    background-color: aliceblue;
+    margin: auto;
+    width: 33%;
+    position: relative;
+    left: 40px ;
+    top: 200px;
+    font-size: 45px;
+    padding: 20px 50px;
+    text-decoration: underline solid 5px black;
+    box-shadow: 5px 5px 10px black;
+}
+.libimg img{
+    width: 1500px;
+    height: 300px;
+    margin-top: 50px;
+    margin-left: 90px;
+}
+.lib{
+    background-color: rgb(235, 227, 243);
+    padding: 20px 15px;
+    color: rgb(6, 6, 6);
+    width: 70%;
+    height: 250px;
+    position: relative;
+    left: 200px;
+    bottom: 150px;
+}
+.lib h3{
+    font-size: 40px;
+    text-decoration: underline solid black 5px;
+}
+.lib p,a{
+    font-size: 20px;
+    margin-left: 15px;
+    color: black;
+}
